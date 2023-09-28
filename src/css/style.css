@@ -1,0 +1,19 @@
+body {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+table {
+  color: #0a0909;
+  font-size: 20px;
+  border-spacing: 0px;
+  border: solid 1px #050505;
+}
+
+td {
+  padding: 20px;
+  border: solid 1px #050505;
+}
